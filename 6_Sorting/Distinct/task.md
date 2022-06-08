@@ -1,3 +1,4 @@
+# Distinct
 Write a function
 
 `def solution(A)`
