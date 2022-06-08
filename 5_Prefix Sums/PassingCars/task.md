@@ -1,4 +1,4 @@
-# Passing Cars
+# PassingCars
 A non-empty array A consisting of N integers is given. The consecutive elements of array A represent consecutive cars on a road.
 
 Array A contains only 0s and/or 1s:
