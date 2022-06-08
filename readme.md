@@ -1,8 +1,8 @@
 ### Codility Training Problems Solution (Python)
 
-This repository contains problems for preparing for interviews coding test in different topics
+This repository contains problems for preparing for interviews coding test in different topics:
 
-Each directory contain specific topic in data structures and algorithms.
+Each directory contains specific topic in data structures and algorithms.
 
 The `pdf` file contains studying material for the topic.
 
