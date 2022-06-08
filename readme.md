@@ -1,4 +1,4 @@
-### Codility Training Problems Solutions (Python)
+### Codility Training Problems Solution (Python)
 
 This repository contains problems for preparing for interviews coding test in different topics
 
