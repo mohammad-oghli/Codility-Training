@@ -8,7 +8,7 @@ The `pdf` file contains studying material for the topic.
 
 Each problem directory contains two files:
 * `Task` which explain the problem with input sample and output.
-* `Solution` which contains the successful submitted code in python.(commented code in the solution contains another alternative solution)
+* `Solution` which contains the successful submitted code in python(commented code in the solution contains another alternative solution).
 
 You can test solutions on **Codility** platform using any programming languages from the following link:
 https://app.codility.com/programmers/lessons/1-iterations/
